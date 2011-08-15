@@ -1,0 +1,51 @@
+
+Synonyms/Hypernyms (Ordered by Estimated Frequency) of noun speed
+
+5 senses of speed                                                       
+
+Sense 1
+speed, velocity
+       => rate
+
+Sense 2
+speed, swiftness, fastness
+       => pace, rate
+
+Sense 3
+speed, speeding, hurrying
+       => motion, movement, move
+
+Sense 4
+focal ratio, f number, stop number, speed
+       => ratio
+
+Sense 5
+amphetamine, pep pill, upper, speed
+       => stimulant, stimulant drug, excitant
+       => drug of abuse, street drug
+
+Synonyms/Hypernyms (Ordered by Estimated Frequency) of verb speed
+
+5 senses of speed                                                       
+
+Sense 1
+rush, hotfoot, hasten, hie, speed, race, pelt along, rush along, cannonball along, bucket along, belt along, step on it
+       => travel, go, move, locomote
+          Phrasal Verb-> speed up#1
+
+Sense 2
+accelerate, speed up, speed, quicken
+       => intensify, deepen
+
+Sense 3
+travel rapidly, speed, hurry, zip
+       => travel, go, move, locomote
+          Phrasal Verb-> speed up#1
+
+Sense 4
+speed
+       => travel, go, move, locomote
+
+Sense 5
+accelerate, speed, speed up
+       => change, alter, modify

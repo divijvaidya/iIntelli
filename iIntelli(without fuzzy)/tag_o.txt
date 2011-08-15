@@ -1,0 +1,1 @@
+with_IN air_NN injection_NN ,_, turbulent_JJ shear_NN was_VBD obtained_VBN only_RB for_IN reynolds_NNS numbers_NNS greater_JJR than_IN 2_CD x_LS 10_CD ,_, this_DT value_NN being_VBG in_IN good_JJ agreement_NN with_IN earlier_JJR results_NNS of_IN this_DT investigation_NN

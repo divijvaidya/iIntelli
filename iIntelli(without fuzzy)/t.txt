@@ -1,0 +1,6 @@
+       => deformation
+       => edge tool
+       => snip, clip, crop, trim, lop, dress, prune, cut back
+       => shave, trim
+       => cut
+       => change

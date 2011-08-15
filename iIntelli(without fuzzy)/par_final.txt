@@ -1,0 +1,2 @@
+amod(shear-6, turbulent-5)
+nsubjpass(obtained-8, shear-6)

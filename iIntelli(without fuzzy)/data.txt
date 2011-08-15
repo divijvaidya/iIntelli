@@ -1,0 +1,1 @@
+ with air injection, turbulent shear was obtained only for reynolds numbers greater than 2 x 10, this value being in good agreement with earlier results of this investigation 

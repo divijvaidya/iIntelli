@@ -1,0 +1,171 @@
+T experimental investigation of the aerodynamics of a wing in a slipstream .
+W experimental investigation of the aerodynamics of a wing in a slipstream .
+ an experimental study of a wing in a propeller slipstream was made in order to determine the spanwise distribution of the lift increase due to slipstream at different angles of attack of the wing and at different free stream to slipstream velocity ratios .
+ the comparative span loading curves, together with supporting evidence, showed that a substantial part of the lift increment produced by the slipstream was due to a /destalling/ or boundary-layer-control effect .
+ at his suggestion some additional data were obtained, primarily to extend the range to higher values of, during the course of an investigation of transition on a flat plate conducted at the national bureau of standards .
+ an investigation of transition and skin friction on an insulated flat plate, 5 by 26 in.
+ with air injection, turbulent shear was obtained only for reynolds numbers greater than 2 x 10, this value being in good agreement with earlier results of this investigation .
+ ae.
+W the boundary layer in simple shear flow past a flat plate .
+ .
+ .
+ and schaaf,s.
+ .
+A chambre,p.
+ scs.
+T the theory of the impact tube at low pressure .
+ glauert .
+46 for an effective reynolds number between 5 and 6 x 10 .
+B j.
+ the turbulent skin-friction coefficient was found to be approximately 0.
+ .
+ direct skin-friction measurements were made by means of the floating element technique, over a range of reynolds numbers verified as being laminar over the complete range .
+f.
+ although the onset of transition occurred at reynolds numbers as low as 10, a fully developed turbulent boundary layer was not obtained at reynolds numbers much below 2 x 10 regardless of the amount of air injected .
+A m.
+ the effect of two-dimensional and local disturbances was investigated .
+ .
+ transverse contamination caused by the turbulent boundary layer on the tunnel sidewall originated far downstream of the flat plate leading edge at reynolds numbers of 1.
+ 25, 1958, 324.
+ the phosphorescent lacquer technique was used for transition detection and was found to be in good agreement with total-head rake measurements along the plate surface and pitot boundary- layer surveys .
+ .
+ hypersonic wind tunnel at a nominal mach number of 5.
+T the boundary layer in simple shear flow past a flat plate .
+8 .
+ analytic solutions are presented for the transient heat conduction in composite slabs exposed at one surface to a triangular heat rate .
+W transition studies and skin friction measurements on an insulated flat plate at a mach number of 5.
+ .
+ 23, 1956, 97.
+ .
+ ae.
+ the discussion here is restricted to two-dimensional incompressible steady flow .
+ .
+ scs.
+A korkegi,r.
+.
+8 .
+B j.
+ .
+ in the present paper, the simple shear flow past a flat plate in a fluid of small viscosity is investigated .
+ dryden found, on the basis of available data, that the effect of a two-dimensional roughness element such as a /trip wire/ could be represented reasonably well in terms of a functional relation between and, where is the reynolds number of transition based on distance from the leading edge, is the height of the roughness element, and is the boundary-layer displacement thickness at the position of the element .
+A wasserman,b.
+ l.
+ the integrated remaining lift increment, after subtracting this destalling lift, was found to agree well with a potential flow theory .
+W measurements of the effect of two-dimensional and three-dimensional roughness elements on boundary layer transition .
+T one-dimensional transient heat conduction into a double-layer slab subjected to a linear heat input for a small time internal .
+ 22, 1955, 803.
+ in prandtl's original problem the inviscid free stream outside the boundary layer is irrotational while in a hypersonic boundary-layer problem the inviscid free stream must be considered as rotational .
+ ae.
+ comparison with the boundary layer of a uniform flow has also been made to show the effect of vorticity .
+ .
+ ae.
+A klebanoff,p.
+ the two-dimensional steady boundary-layer problem for a flat plate in a shear flow of incompressible fluid is considered .
+T measurements of the effect of two-dimensional and three-dimensional roughness elements on boundary layer transition .
+ such a situation arises, for instance, in the study of the hypersonic viscous flow past a flat plate .
+, where x is trip position .
+ .
+67 by varying trip size, position, spacing, and reynolds number per inch .
+ the results were intended in part as an evaluation basis for different theoretical treatments of this problem .
+90, 2.
+ scs.
+ experiments were performed in the 12-in.
+ in the study of high-speed viscous flow past a two-dimensional body it is usually necessary to consider a curved shock wave emitting from the nose or leading edge of the body .
+ .
+B j.
+ scs.
+B j.
+B j.
+t.
+d.
+ .
+r.
+ .
+ .
+ .
+ .
+ .
+ a theoretical analysis has been made for an impact tube of the relation between free-stream mach number and the impact and free-stream pressures and densities for extremely low pressures .
+ .
+ scs.
+B j.
+a.
+l.
+ .
+ .
+40 of that for incompressible flow for a constant value of r, and 0.
+ .
+ a qualitative discussion of these results is given with emphasis on the possibility of a greater stability of the laminar boundary layer in hypersonic flow than at lower speeds .
+ the technique of air injection into the boundary layer as a means of hastening transition was extensively used .
+5 to 2 x 10, and spread at a uniform angle of 5 compared to 9 degree in low-speed flow .
+ it was found that the boundary layer was laminar at reynolds numbers of at least 5 x 10 .
+8 .
+, was made in the galcit 5 by 5 in.
+W one-dimensional transient heat conduction into a double-layer slab subjected to a linear heat input for a small time internal .
+ .
+ scs.
+B j.
+h.
+ .
+T transition studies and skin friction measurements on an insulated flat plate at a mach number of 5.
+ after the results on the two- dimensional roughness elements were obtained, it appeared to be desirable to see whether a row of three-dimensional roughness elements would behave in the same way .
+ .
+ in his study of the effect of roughness on transition, h.
+ .
+ scs.
+B j.
+s.
+ .
+ .
+ the results indicate that (1) transition from laminar to turbulent flow induced by three-dimensional roughness elements begins when the double row of spiral vortices trailing each element contaminates and breaks down the surrounding field of vorticity, (2) transition appears rather suddenly, becoming more violent with increasing roughness height relative to the boundary-layer thickness, (3) after the breakdown of the vorticity field, the strength of the spiral vortices may still persist in the sublayer of the ensuing turbulent flow, (4) lateral spacing of roughness elements has little effect upon the initial breakdown (contamination) of the laminar flow, and (5) the trip reynolds number where u and v are the velocity and kinematic viscosity at the outer edge of the boundary layer and k is roughness height, such that transition occurs at the roughness position, varies as the position reynolds number to the one-fourth power, viz.
+71, and 3.
+ supersonic wind tunnel of the jet propulsion laboratory of the california institute of technology to investigate the effect of three-dimensional roughness elements (spheres) on boundary-layer transition on a tained at local mach numbers of 1.
+W the effect of controlled three-dimensional roughness on boundary layer transition at supersonic speeds .
+ 27, 1960, 261.
+ ae.
+ .
+ and mccauley,w.
+A van driest,e.
+T the effect of controlled three-dimensional roughness on boundary layer transition at supersonic speeds .
+ i propose here to give the general solution to this problem, to indicate briefly how it is obtained using the method of reference 2, and to point out that the solutions given by wassermann are incomplete for times longer than the duration of the heat input .
+ his solutions were for the three particular cases.
+W one-dimensional transient heat flow in a multilayer slab .
+ 25, 1958, 340.
+ ae.
+ b.
+A campbell,w.
+T one-dimensional transient heat flow in a multilayer slab .
+ this type of heating rate may occur, for example, during aerodynamic heating .
+ .
+ 24, 1957, 924.
+ ae.
+ .
+ the possible effects of vorticity have been recently discussed by ferri and libby .
+ .
+ solutions for the boundary- layer thickness, skin friction, and the velocity distribution in the boundary layer are obtained by the karman-pohlhausen technique .
+W approximate solutions of the incompressible laminar boundary layer equations for a plate in shear flow .
+ 22, 1955, 728.
+ ae.
+ .
+A yen,k.
+T approximate solutions of the incompressible laminar boundary layer equations for a plate in shear flow .
+ the boundary-layer equations are presented for steady incompressible flow with no pressure gradient .
+B department of mathematics, university of manchester, manchester, england .
+T simple shear flow past a flat plate in an incompressible fluid of small viscosity .
+ .
+ an empirical evaluation of the destalling effects was made for the specific configuration of the experiment .
+ it can be shown that this problem can again be treated by the boundary-layer approximation, the only novel feature being that the free stream has a constant vorticity .
+.
+ the situation is somewhat different from prandtl's classical boundary-layer problem .
+ consequently, there exists an inviscid rotational flow region between the shock wave and the boundary layer .
+W simple shear flow past a flat plate in an incompressible fluid of small viscosity .
+y.
+A ting-yili .
+ it is shown that the results differ appreciably from the corresponding continuum relations .
+ scs.
+W the theory of the impact tube at low pressure .
+ .
+A brenckman,m.
+ 15, 1948, 735.
+ in a recent contribution to the readers' forum wassermann gave analytic solutions for the temperature in a double layer slab, with a triangular heat rate input at one face, insulated at the other, and with no thermal resistance at the interface .
+B department of aeronautical engineering, rensselaer polytechnic institute troy, n.

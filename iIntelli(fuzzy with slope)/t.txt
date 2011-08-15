@@ -1,0 +1,11 @@
+       => rate
+       => pace, rate
+       => motion, movement, move
+       => ratio
+       => stimulant, stimulant drug, excitant
+       => drug of abuse, street drug
+       => travel, go, move, locomote
+       => intensify, deepen
+       => travel, go, move, locomote
+       => travel, go, move, locomote
+       => change, alter, modify

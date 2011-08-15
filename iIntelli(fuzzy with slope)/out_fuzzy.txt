@@ -1,0 +1,84 @@
+
+
+In the early 1980s, AI research was revived by the commercial success of expert systems, a form of AI program that simulated the knowledge and analytical skills of one or more human experts.
+ and British governments cut off all undirected, exploratory research in AI.
+
+
+The field of AI research was founded at a conference on the campus of Dartmouth College in the summer of 1956.
+ At the same time, Japan's fifth generation computer project inspired the U.
+S and British governments to restore funding for academic research in the field.
+
+
+On 11 May 1997, Deep Blue became the first computer chess-playing system to beat a reigning world chess champion, Garry Kasparov.
+ One pragmatic definition is: "AI research is that which computing scientists do not know how to do cost-effectively today.
+ By the middle of the 1960s, research in the U.
+
+
+AI research is highly technical and specialized, and deeply divided into subfields that often fail to communicate with each other.
+ No one would any longer consider already-solved computing science problems like OCR "artificial intelligence" today.
+ The XBox 360 gaming system November 2010 Kinect 3D-body-motion interface uses algorithms that emerged from lengthy AI research, but few consumers realize the technology source.
+
+
+In common usage, the term "AI" no longer seems to apply to off-the-shelf solved computing-science problems, which may have originally emerged out of years of AI research.
+ The attendees, including John McCarthy, Marvin Minsky, Allen Newell and Herbert Simon, became the leaders of AI research for many decades.
+
+
+Thinking machines and artificial beings appear in Greek myths, such as Talos of Crete, the bronze robot of Hephaestus, and Pygmalion's Galatea.
+ It was also widely believed that artificial beings had been created by Jābir ibn Hayyān, Judah Loew and Paracelsus.
+ This raises philosophical issues about the nature of the mind and the ethics of creating artificial beings, issues which have been addressed by myth, fiction and philosophy since antiquity.
+ By the 19th and 20th centuries, artificial beings had become a common feature in fiction, as in Mary Shelley's Frankenstein or Karel Čapek's R.
+ AI textbooks define the field as "the study and design of intelligent agents" where an intelligent agent is a system that perceives its environment and takes actions that maximize its chances of success.
+
+
+AI applications are no longer the exclusive domain of Department of defense R&amp;D, but are now common place consumer items and inexpensive intelligent toys.
+ The central problems of AI include such traits as reasoning, knowledge, planning, learning, communication, perception and the ability to move and manipulate objects.
+ This, along with concurrent discoveries in neurology, information theory and cybernetics, inspired a small group of researchers to begin to seriously consider the possibility of building an electronic brain.
+ John McCarthy, who coined the term in 1956, defines it as "the science and engineering of making intelligent machines.
+ General intelligence (or "strong AI") is still among the field's long term goals.
+ Human likenesses believed to have intelligence were built in every major civilization: animated cult images were worshipped in Egypt and Greece and humanoid automatons were built by Yan Shi, Hero of Alexandria and Al-Jazari.
+Artificial intelligence (AI) is the intelligence of machines and the branch of computer science that aims to create it.
+ Artificial intelligence is used for logistics, data mining, medical diagnosis and many other areas throughout the technology industry.
+
+
+The leading-edge definition of artificial intelligence research is changing over time.
+ Artificial intelligence has been the subject of optimism, but has also suffered setbacks and, today, has become an essential part of the technology industry, providing the heavy lifting for many of the most difficult problems in computer science.
+ Stories of these creatures and their fates discuss many of the same hopes, fears and ethical concerns that are presented by artificial intelligence.
+"
+
+The field was founded on the claim that a central property of humans, intelligence—the sapience of Homo sapiens—can be so precisely described that it can be simulated by a machine.
+R.
+.
+.
+ AI's founders were profoundly optimistic about the future of the new field: Herbert Simon predicted that "machines will be capable, within twenty years, of doing any work a man can do" and Marvin Minsky agreed, writing that "within a generation .
+ Turing's theory of computation suggested that a machine, by shuffling symbols as simple as "0" and "1", could simulate any conceivable act of mathematical deduction.
+ DARPA no longer provides significant funding for chess-playing computing system development.
+" For example, in 1956 optical character recognition (OCR) was considered AI, but today, sophisticated OCR software with a context-sensitive spell checker and grammar checker software comes for free with most image scanners.
+
+
+In the 1990s and early 21st century, AI achieved its greatest successes, albeit somewhat behind the scenes.
+ In 2005, a Stanford robot won the DARPA Grand Challenge by driving autonomously for 131 miles along an unrehearsed desert trail.
+
+
+They had failed to recognize the difficulty of some of the problems they faced.
+ The success was due to several factors: the increasing computational power of computers (see Moore's law), a greater emphasis on solving specific subproblems, the creation of new ties between AI and other fields working on similar problems, and a new commitment by researchers to solid mathematical methods and rigorous scientific standards.
+S.
+ The study of logic led directly to the invention of the programmable digital electronic computer, based on the work of mathematician Alan Turing and others.
+ In 1974, in response to the criticism of England's Sir James Lighthill and ongoing pressure from Congress to fund more productive projects, the U.
+ Pamela McCorduck argues that all of these are examples of an ancient urge, as she describes it, "to forge the gods".
+
+
+Low-cost entertaining chess-playing software is commonly available for tablet computers.
+ (Rossum's Universal Robots).
+U.
+ However, beginning with the collapse of the Lisp Machine market in 1987, AI once again fell into disrepute, and a second, longer lasting AI winter began.
+ They and their students wrote programs that were, to most people, simply astonishing: computers were solving word problems in algebra, proving logical theorems and speaking English.
+ the problem of creating 'artificial intelligence' will substantially be solved".
+ The next few years, when funding for projects was hard to find, would later be called an "AI winter".
+ was heavily funded by the Department of Defense and laboratories had been established around the world.
+ Subfields have grown up around particular institutions, the work of individual researchers, the solution of specific problems, longstanding differences of opinion about how AI should be done and the application of widely differing tools.
+ In February 2011, in a Jeopardy! quiz show exhibition match, IBM's question answering system, Watson, defeated the two greatest Jeopardy! champions, Brad Rutter and Ken Jennings, by a significant margin.
+ By 1985 the market for AI had reached over a billion dollars.
+
+
+Mechanical or "formal" reasoning has been developed by philosophers and mathematicians since antiquity.
+S.
